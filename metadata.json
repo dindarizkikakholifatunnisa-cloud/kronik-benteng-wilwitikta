@@ -1,0 +1,6 @@
+{
+  "name": "Kronik Benteng Wilwatikta",
+  "description": "Game petualangan survival horor & edukasi sejarah kerajaan nusantara. Bertahan hidup bersama Arya Sena dan Resi Vidyadhara, mengelola lentera & stamina, menumpas prajurit bayangan & Avatar Angkara Dahana, serta memecahkan kuis artefak sejarah otentik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
